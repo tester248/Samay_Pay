@@ -8,7 +8,7 @@
 
 ## 🚀 Overview
 
-The **Samay Pay** is designed for schools to facilitate secure and efficient transactions using **RFID technology** and **Blockchain**. This system helps students, parents, and administrators manage funds seamlessly while ensuring transparency and security.
+**Samay Pay** is designed for schools to facilitate secure and efficient transactions using **RFID technology** and **Blockchain**. This system helps students, parents, and administrators manage funds seamlessly while ensuring transparency and security.
 
 ---
 
