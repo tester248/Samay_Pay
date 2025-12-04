@@ -105,7 +105,7 @@ Thanks to the following collaborators for their contributions:
 
 <p align="left">
     <a href="https://github.com/ShreyashChilip">
-        <img src="https://github.com/tester248.png" alt="tester248" width="40" height="40" style="border-radius:50%;" />
+        <img src="https://github.com/ShreyashChilip.png" alt="ShreyashChilip" width="40" height="40" style="border-radius:50%;" />
     </a>
     &nbsp;
     <a href="https://github.com/sidemen7z">
